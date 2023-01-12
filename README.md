@@ -6,9 +6,7 @@ Introduce Yourself is an application where students can introduce themselves wit
 
 ### App Walk-though
 
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+![](https://github.com/kkellybonilla/codepath-ios102-prework/blob/main/CodePath%20iOS102%20Pre-work%20App%20Walkthrough.gif)
 
 ### Required Features
 
